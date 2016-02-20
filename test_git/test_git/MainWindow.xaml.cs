@@ -20,7 +20,7 @@ namespace test_git {
     public partial class MainWindow : Window {
         public MainWindow() {
             InitializeComponent();
-            MessageBox.Show("asda");
+            MessageBox.Show("asdsdasdasdasdasdsaa");
         }
     }
 }
